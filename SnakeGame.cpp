@@ -463,4 +463,5 @@ int main()
     system("CLS");
     std::cout << "My man, you expect too much from this game" << std::endl;
     std::cout << "Although, thank you for playing!" << std::endl;
+    system("PAUSE");
 }
