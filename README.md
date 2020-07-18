@@ -4,12 +4,15 @@
 I started trying to get familiarized with C++. By the time this project has been made I haven't gone in too far (not even covered classes or pointers). However, I did want to apply some of my knowledge of what I learned to making of a small project (mostly in order to work on my skills). One of the ideas were to make a simple game in a console using ASCII style art for graphics.
 
 In short: the game has been made. It's a fully playable game with it's own Menu screen where you can chose how fast you want the game to be (using left and right arrow keys):
+
 ![alt text](https://github.com/Si-ja/Snake-CPP/blob/master/Visuals/StartScreen.png "Start Screen")
 
 The game play is...well it exists and the game could be played almost properly:
+
 ![alt text](https://github.com/Si-ja/Snake-CPP/blob/master/Visuals/GamePlay.PNG "Game Play")
 
 And there is an end Screen informing the player of what their score is for the game they played:
+
 ![alt text](https://github.com/Si-ja/Snake-CPP/blob/master/Visuals/GameOverScreen.png "Game Play")
 
 ## Current issues that might need addressing:
